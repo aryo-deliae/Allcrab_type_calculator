@@ -1,0 +1,1 @@
+# Allcrab_type_calculator
